@@ -1,0 +1,9 @@
+﻿  正在验证源
+  正在将源远程复制到“taishan3.ebim.com”
+  正在验证体系结构
+  正在验证体系结构
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(202,5): warning : 当前项目体系结构“ARM”不兼容远程系统体系结构“ARM64”(“ARM64”)。请在 Configuration Manager 中将项目体系结构切换为“ARM64”。如果正在交叉编译，可以忽略此警告。
+  正在启动远程生成
+  正在编译源:
+  client.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(524,5): error : g++ 已退出，代码为 1，请查看“输出窗口”-“生成输出”，了解详细信息(注意: 若要在“输出窗口”中查看详细信息，则可能需要在“工具选项”中更改生成输出的详细程度)。

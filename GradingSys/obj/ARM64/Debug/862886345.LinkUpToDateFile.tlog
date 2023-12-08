@@ -1,0 +1,1 @@
+g++ -o "/home/g202130190273/projects/GradingSys/bin/ARM64/Debug/GradingSys.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/g202130190273/projects/GradingSys/obj/ARM64/Debug/main.o /home/g202130190273/projects/GradingSys/obj/ARM64/Debug/os.o /home/g202130190273/projects/GradingSys/obj/ARM64/Debug/server.o
